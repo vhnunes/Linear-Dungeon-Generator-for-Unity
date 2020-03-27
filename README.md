@@ -6,6 +6,6 @@
   
   Its scalable, you can edit the size of the dungeon and the prefab of the generated room.
 
-  Still under developement. Feel free to use in any kind of commercial or non-commercial project.
+  Still under development. Feel free to use in any kind of commercial or non-commercial project.
 
   Made by me Victor Nunes, vhndev.
